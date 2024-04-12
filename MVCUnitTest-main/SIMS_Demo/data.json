@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 3,
+    "Name": "Vu Manh Cuong",
+    "DoB": "2004-10-05T00:00:00",
+    "Email": "truong",
+    "StudentID": "123124124",
+    "Class": "IT0609",
+    "Major": "Designer"
+  },
+  {
+    "Id": 4,
+    "Name": "Nguyen Nam Truong",
+    "DoB": "0001-01-01T00:00:00",
+    "Email": "truong123@gmail.com",
+    "StudentID": "BH00704",
+    "Class": "IT0603",
+    "Major": "IT"
+  },
+  {
+    "Id": 1,
+    "Name": "cuong",
+    "DoB": "2004-10-05T00:00:00",
+    "Email": "Lam123@gmail.com",
+    "StudentID": "BH00703",
+    "Class": "IT0609",
+    "Major": "Designer"
+  }
+]
